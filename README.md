@@ -50,8 +50,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <div align="center">
-  <img src="./utils/media/board.gif" width="250">
-  <img src="./utils/media/launch_video.gif" alt="Demo" width="250">
+  <img src="./utils/media/board.mp4" width="250">
+  <img src="./utils/media/launch_video.mp4" alt="Demo" width="250">
 </div>
 
 <br>
