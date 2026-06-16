@@ -74,9 +74,6 @@ I used a cheap and modular microcontroller (the Raspberry Pi Pico) for control a
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Hardware
 
 The board is designed with [KiCAD](https://kicad.org) software, an open source for making schematics and PCBs. 
