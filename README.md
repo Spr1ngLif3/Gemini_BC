@@ -13,11 +13,11 @@
     A simple and affordable board computer for bistage rockets!
     <br />
     <br />
-    <a href="https://github.com/Spr1ngLif3/Gemini_BC/software">Scripts</a>
+    <a href="https://github.com/Spr1ngLif3/Gemini_BC/tree/master/software">Scripts</a>
     &middot;
-    <a href="https://github.com/Spr1ngLif3/Gemini_BC/hardware/gerbers">Gerbers</a>
+    <a href="https://github.com/Spr1ngLif3/Gemini_BC/tree/master/hardware/gerbers">Gerbers</a>
     &middot;
-    <a href="https://github.com/Spr1ngLif3/Gemini_BC/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/Spr1ngLif3/Gemini_BC/issues/new/choose">Request Feature</a>
   </p>
 </div>
 
@@ -95,7 +95,7 @@ The KiCAD project needs the TP4056 battery manager footprint to work. You can fi
 1. Install VSCode and setup the environment for the Raspberry Pi Pico. Check this [tutorial](https://randomnerdtutorials.com/raspberry-pi-pico-vs-code-micropython/) (not related to me).
 2. Clone the repo.
    ```sh
-   git clone https://github.com/Spr1ngLif3/Gemini_BC
+   git clone https://github.com/Spr1ngLif3/Gemini_BC.git
    ```
 3. Open the `software` folder in VSCode.
    ```sh
